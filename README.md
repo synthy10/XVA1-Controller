@@ -1,1 +1,2 @@
-# XVA1-Controller
+XVA1 Synth Controller (hardware). 
+To control the FPGA synth from René Caballos. This synth has 4 oscillators, very complete filter, 3 envelope gens., 2 lfo's, arpeggiator, sequencer and a huge effects processor. Everything you need to know is on his website: https://www.futur3soundz.com/da-blog. The build of the fpga synt is in the section XFM2 synthesizer. With my controller i can control every of the 512 parameters. Currently i only control 288 parameters.
